@@ -1,0 +1,11 @@
+//Teste API
+    http://localhost:8080
+
+###
+
+//Get Customer By Id
+    http://localhost:8080/customer/2
+
+###
+
+//Create Customer
